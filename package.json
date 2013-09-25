@@ -14,7 +14,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "jsdom": ">= 0.x",
+    "jsdom": "0.6.5",
     "commander": ">= 0.x"
   },
   "devDependencies": {
