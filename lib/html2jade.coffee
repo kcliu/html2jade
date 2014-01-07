@@ -6,7 +6,7 @@ scope = exports ? this.Html2Jade ?= {}
 
 nspaces = 2 # default
 useTabs = false
-doNotEncode = false
+doNotEncode = true
 
 class Parser
   constructor: (@options = {}) ->
